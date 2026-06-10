@@ -106,8 +106,7 @@ jupyter notebook BMW_sales_analysis.ipynb
 ## 👤 Author
 
 **Sandip Subedi**
-- GitHub: [@sandipsubedi0](https://github.com/sandipsubedi0)
-- Hashnode: [pythoninnercode.hashnode.dev](https://pythoninnercode.hashnode.dev)
+- Hashnode: https://pythoninnercode.hashnode.dev/i-analyzed-14-years-of-bmw-sales-data-here-s-what-i-found?utm_source=hashnode&utm_medium=feed
 - Instagram: [@sandipsubedi0](https://instagram.com/sandipsubedi0)
 
 ---
